@@ -1,0 +1,37 @@
+Q1.	WHAT ARE THE ADVANTAGES OF SQL SERVER?
+      A- a. It can store any amount of data
+         b. It is secured.
+         c. It is Faster.
+
+Q2. 	WHAT IS SQL ?
+      A- Structured Query Language: language to intyeract with any databases.
+
+	
+Q3. 	WHAT IS T-SQL?				
+      A- Transact SQL: SQL Language to interact with SQL Server Databases.
+
+Q4. 	WHAT ARE THE OPERATIONS WE CAN PERFORM USING SQL or T-SQL ?
+      A- Interaction with the databases like DDL where we define, modify and remove existing tables in the databases, 
+	 DML where we do manipulation activities on tables like inserting new data, updating existing table, deleting 
+	 existing table.						
+
+Q5. 	WHAT ARE THE DIFFERENT VERSIONS OF SQL SERVER?
+      A- SQL Server 2019, SQL SERVER 2017, SQL SERVER 2016, SQL SERVER 2014
+
+Q6.	WHAT ARE THE DIFFERENT EDITIONS OF SQL SEVRVER?
+      A-Data centre, enterprise, evaluation, standard, developer,express
+
+Q8. 	WHAT KINDS OF DATABASES DOES SQL SERVER SUPPORT?
+      A-Database of any size and compatible with system requirement for installing it.
+
+
+Q9.	HOW CAN YOU SAY THAT SQL SERVER IS HIGHLY SCALABLE?
+      A-It come with free updates.
+
+
+Q10. 	WHAT ARE THE FEATURES  (COMPONENTS) INSIDE SQL SERVER?
+      A- Database Engine: It support the OLTP for live data processing eg. ticketing, banking
+         SSAS: OLAP, It support the analytical activities.
+         SSIS: It support the design of database for historical data.
+         SSRS: Support the end to end implementation of the report design.
+         ML: Support the machine learning activities with R and Python.
